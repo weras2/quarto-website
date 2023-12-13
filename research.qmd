@@ -1,0 +1,37 @@
+### Developing PSOCT-NIRS Catheter for Ablation Treatment of Atrial Fibrillation
+
+*Case Western Reserve University, Cleveland*\
+**Duration**: Jun 2022 - Present
+
+-   Atrial tissue thickness using Near Infrared Spectroscopy
+
+    -   Built a model that can estimate atrial wall thickness
+
+-   Created custom Swept-Source OCT software
+
+    -   Multiple view ports (real time rendering \>60fps)
+
+    -   GPU accelerated
+
+------------------------------------------------------------------------
+
+### Cancer-focused Summer Undergraduate Research (CanSUR)
+
+*Case Western Reserve University, Cleveland*\
+**Duration**: Jun 2021 - Aug 2021\
+*10-week research program that served as a continuation of my previous research.*
+
+------------------------------------------------------------------------
+
+### Prostate Cancer Research
+
+*Case Western Reserve University, Cleveland*\
+**Duration**: May 2020 - Aug 2021
+
+-   Worked on building machine learning models
+
+    -    Prostate cancer severity through MRI images
+
+-   Automated batch volume to label map (a 3D scalar volume node where each voxel is a number indicating the type of tissue at that location)
+
+![](_site/resources/slicer.png){fig-align="left" width="229" height="188"}

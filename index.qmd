@@ -1,0 +1,20 @@
+---
+title: "Bio"
+about:
+  id: intro-heading
+  template: jolla
+  image: resources/juan.jpg
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/juan-perez-698a40172
+    - icon: github
+      href: https://github.com/weras2
+    - icon: envelope
+      href: mailto:jep162@case.edu
+    - text: CV
+      href: resources/CV.pdf
+---
+
+::: {#intro-heading}
+Hello, my name is Juan Perez and I am currently a 2nd year PhD candidate in [Rollin's lab](https://case.edu/bme/research/labs/rollins-lab). I am currently conducting research focused on enhancing the design and functionality of radio frequency ablation catheters, which are utilized by medical professionals in treating patients with atrial fibrillation. And well... when I am not doing work in the lab I am [running](https://www.tfrrs.org/athletes/6987979/Case_Western/Juan_Perez) 🏃‍♂️..
+:::

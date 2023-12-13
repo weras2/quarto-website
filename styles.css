@@ -1,0 +1,36 @@
+/* css styles */
+.nav-link.active {
+    color: #007AB8 !important; /* Your original active color */
+}
+
+.project-thumbnail {
+  position: relative;
+  overflow: hidden;
+}
+
+.project-thumbnail img {
+  width: 100%;
+  transition: transform 0.3s ease;
+}
+
+.project-thumbnail:hover img {
+  transform: scale(1.1);
+}
+
+.project-thumbnail .project-description {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7); /* semi-transparent black */
+  color: white;
+  width: 100%;
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+}
+
+.project-thumbnail:hover .project-description {
+  transform: translateY(0);
+}
+
+.project-description p {
+  padding: 10px;
+}

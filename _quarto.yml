@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Juan Perez"
+  search: false
+  navbar:
+    background: '#FFFFFF'
+    foreground: '#171717'
+    left:
+      - href: index.qmd
+        text: Home
+      - href: education.qmd
+        text: Education
+      - href: research.qmd
+        text: Research
+      - href: https://weras2.github.io/circuitanim/
+        text: Circuitanim website
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
+
